@@ -31,8 +31,4 @@ def main():
             print(f"{test_str}\t=>\tscore: {score}%")
 
 
-# target_str = "methinks it is like a weasel"
-# test_str = generate_str(28)
-# score = test(test_str, target_str)
-# print(score)
 main()
